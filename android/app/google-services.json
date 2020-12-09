@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1011717129018",
+    "firebase_url": "https://oss-chat-4ddd3.firebaseio.com",
+    "project_id": "oss-chat-4ddd3",
+    "storage_bucket": "oss-chat-4ddd3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011717129018:android:89c4b49f37834a0f6b4603",
+        "android_client_info": {
+          "package_name": "ispam.glisteners"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011717129018-5ul42n0k9um8c3ut7n9cebahdddeusdd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkI28mzaLgPTY5F_Xh-k6SIr-nZt-Ybms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011717129018-5ul42n0k9um8c3ut7n9cebahdddeusdd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011717129018:android:241a91641ed8b9c56b4603",
+        "android_client_info": {
+          "package_name": "ispam.glistenersadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011717129018-5ul42n0k9um8c3ut7n9cebahdddeusdd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkI28mzaLgPTY5F_Xh-k6SIr-nZt-Ybms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011717129018-5ul42n0k9um8c3ut7n9cebahdddeusdd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
